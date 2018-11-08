@@ -20,7 +20,7 @@ h1 {
                 border:3px dashed rgb(0, 255, 0);
             }
             #block {
-                margin-top:-35px;
+                margin-top:-15px;
                 margin-bottom:15px;
             }
             #yolo {
@@ -50,7 +50,7 @@ h1 {
             #winston {
                 position:absolute;
                 left:75px;
-                top:790px;
+                top:870px;
                 z-index:2;
             }
             #xtraspan {
@@ -71,6 +71,10 @@ h1 {
                 background-color:transparent;
                 padding:5px;
                 border:6px dashed black;
+            }
+            div .qwerty {
+                background-color:white;
+                padding:3px;
             }
             h2, h3 {
                 color:purple;
