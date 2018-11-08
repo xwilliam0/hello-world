@@ -1,0 +1,80 @@
+h1 {
+                color:green;
+                font-family:monospace;
+            }
+            body {
+                background-color:rgb(3, 255, 234);
+            }
+            .wrong {
+                background-color:yellow;
+                font-family:cursive;
+                font-size:20px;
+                border:3px groove red;
+            }
+            .ohohoh {
+                background-color:red;
+                color:rgb(0, 255, 0);
+                font-size:1.25em;
+                font-weight:bold;
+                text-decoration:underline;
+                border:3px dashed rgb(0, 255, 0);
+            }
+            #block {
+                margin-top:-35px;
+                margin-bottom:15px;
+            }
+            #yolo {
+                background-color:blue;
+                color:rgb(255, 255, 0);
+                font:italic 1em serif;
+                text-align:center;
+                line-height:1.2em;
+                height:180px;
+                overflow-y:auto;
+                overflow-x:hidden;
+                margin-bottom:20px;
+                border:4px ridge rgb(255, 0, 0);
+                padding:10px;
+            }
+            #landscape {
+                width:250px;
+                margin-bottom:20px;
+                position:absolute;
+                z-index:1;
+            }
+            #fishes {
+                background-color:white;
+                position:relative;
+                left:260px;
+            }
+            #winston {
+                position:absolute;
+                left:75px;
+                top:790px;
+                z-index:2;
+            }
+            #xtraspan {
+                position:relative;
+                color:black;
+                float:right;
+                right:195px;
+                top:20px;
+                z-index:3;
+            }
+            .xspan {
+                background-color:yellow;
+                padding:4px;
+                border:3px double red;
+                clear:both;
+            }
+            div.xspan {
+                background-color:transparent;
+                padding:5px;
+                border:6px dashed black;
+            }
+            h2, h3 {
+                color:purple;
+            }
+            a:hover, a:active, a:focus {
+                background-color:rgb(0, 255, 0);
+            }
